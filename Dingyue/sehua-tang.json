@@ -68,20 +68,20 @@
     "sourceUrl": "https://www.98ddt.xyz/forum-135-1.html,{\"charset\": \"utf-8\", \"method\": \"POST\", \"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\" , \"webView\": true }"
   },
   {
-    "customOrder": 0,
-    "enableJs": false,
-    "enabled": true,
-    "loadWithBaseUrl": false,
-    "ruleArticles": "class.common!0:1:2:3:4:5:6:7:8||class.new",
-    "ruleContent": "<js>\r\nvar data=org.jsoup.Jsoup.parse(result)\r\nvar part1=data.select('.t_f')\nvar img=data.select('.pattl')\r\nvar text=String(part1).replace(/src/g,'123').replace(/zoomfile/g,'src')\nvar text2=String(img).replace(/src/g,'123').replace(/zoomfile/g,'src')\r\nvar sou=text.search(/磁力/)\r\nvar set='<link rel=\"stylesheet\" type=\"text/css\" href=\"https://damingzhijun.gitee.io/yueduwenben/play/img.css\" />'\r\nresul=set+text+text2\r\n\r\n</js>",
-    "ruleImage": "",
-    "ruleLink": "class.s xst@href@js:'https://www.98ddt.xyz/'+result+',{\"charset\": \"utf-8\", \"method\": \"POST\", \"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\" , \"webView\": true }'",
-    "ruleNextPage": "class.pg@text.下一页@href@js:'https://www.98ddt.xyz/'+result+',{\"charset\": \"utf-8\", \"method\": \"POST\", \"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\" , \"webView\": true }'",
-    "rulePubDate": "",
-    "ruleTitle": "class.s xst@text",
-    "sortUrl": "综合讨论区::https://www.98ddt.xyz/forum-95-1.html\n色花视频自拍::https://www.98ddt.xyz/forum-124-1.html\n网友原创区::https://www.98ddt.xyz/forum-141-1.html\n转帖交流区::https://www.98ddt.xyz/forum-142-1.html\n官方求片区::https://www.98ddt.xyz/forum-147-1.html\n求片问答悬赏区::https://www.98ddt.xyz/forum-143-1.html\n投诉建议区::https://www.98ddt.xyz/forum-96-1.html\n招聘区::https://www.98ddt.xyz/forum-97-1.html\n版主招聘区::https://www.98ddt.xyz/forum-120-1.html",
-    "sourceIcon": "https://www.98ddt.xyz/favicon.ico",
-    "sourceName": "色花堂-讨论区",
-    "sourceUrl": "https://www.98ddt.xyz/forum-95-1.html,{\"charset\": \"utf-8\", \"method\": \"POST\", \"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\" , \"webView\": true }"
-  }
+  "customOrder": 0,
+  "enableJs": false,
+  "enabled": true,
+  "loadWithBaseUrl": false,
+  "ruleArticles": "class.common!0:1:2:3:4:5:6:7:8||class.new",
+  "ruleContent": "<js>\r\nvar data=org.jsoup.Jsoup.parse(result)\r\nvar part1=data.select('.t_f')\nvar img=data.select('.pattl')\r\nvar text=String(part1).replace(/src/g,'123').replace(/zoomfile/g,'src')\nvar text2=String(img).replace(/src/g,'123').replace(/zoomfile/g,'src')\r\nvar sou=text.search(/磁力/)\r\nvar set='<link rel=\"stylesheet\" type=\"text/css\" href=\"https://damingzhijun.gitee.io/yueduwenben/play/img.css\" />'\r\nresul=set+text+text2\r\n\r\n</js>",
+  "ruleImage": "",
+  "ruleLink": "class.s xst@href@js:'https://www.98ddt.xyz/'+result+',{\"charset\": \"utf-8\", \"method\": \"POST\", \"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\" , \"webView\": true }'",
+  "ruleNextPage": "class.pg@text.下一页@href@js:'https://www.98ddt.xyz/'+result+',{\"charset\": \"utf-8\", \"method\": \"POST\", \"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\" , \"webView\": true }'",
+  "rulePubDate": "",
+  "ruleTitle": "class.s xst@text",
+  "sortUrl": "综合讨论区::https://www.98ddt.xyz/forum-95-1.html,{\"charset\": \"utf-8\", \"method\": \"POST\", \"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\" , \"webView\": true }\n色花视频自拍::https://www.98ddt.xyz/forum-124-1.html,{\"charset\": \"utf-8\", \"method\": \"POST\", \"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\" , \"webView\": true }\n网友原创区::https://www.98ddt.xyz/forum-141-1.html,{\"charset\": \"utf-8\", \"method\": \"POST\", \"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\" , \"webView\": true }\n转帖交流区::https://www.98ddt.xyz/forum-142-1.html,{\"charset\": \"utf-8\", \"method\": \"POST\", \"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\" , \"webView\": true }\n官方求片区::https://www.98ddt.xyz/forum-147-1.html,{\"charset\": \"utf-8\", \"method\": \"POST\", \"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\" , \"webView\": true }\n求片问答悬赏区::https://www.98ddt.xyz/forum-143-1.html,{\"charset\": \"utf-8\", \"method\": \"POST\", \"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\" , \"webView\": true }\n投诉建议区::https://www.98ddt.xyz/forum-96-1.html,{\"charset\": \"utf-8\", \"method\": \"POST\", \"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\" , \"webView\": true }\n招聘区::https://www.98ddt.xyz/forum-97-1.html,{\"charset\": \"utf-8\", \"method\": \"POST\", \"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\" , \"webView\": true }\n版主招聘区::https://www.98ddt.xyz/forum-120-1.html,{\"charset\": \"utf-8\", \"method\": \"POST\", \"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\" , \"webView\": true }",
+  "sourceIcon": "https://www.98ddt.xyz/favicon.ico",
+  "sourceName": "色花堂-讨论区",
+  "sourceUrl": "https://www.98ddt.xyz/forum-95-1.html,{\"charset\": \"utf-8\", \"method\": \"POST\", \"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36\" , \"webView\": true }"
+}
 ]
